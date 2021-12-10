@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559326120 source:c:\users\mahsa\desktop\snakevsblock\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	<process.h>
+
